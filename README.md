@@ -65,4 +65,7 @@ Python · pandas · NumPy · SciPy · Matplotlib · yfinance
 
 ## Data Sources
 
-screener.in (financial statements) · trendlyne.com (liquidity ratios) · CRISIL / ICRA (credit ratings) · Yahoo Finance (daily prices)
+screener.in (financial statements)
+trendlyne.com (liquidity ratios) 
+CRISIL / ICRA (credit ratings) 
+Yahoo Finance (daily prices)
